@@ -1,0 +1,1 @@
+alert("This is from 2nd JS");
